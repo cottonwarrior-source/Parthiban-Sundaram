@@ -20,7 +20,6 @@ As a **Certified Scrum Master and Agile Practitioner**, I excel in leading cross
 ### 🎮 **Game & Technical Tools**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Shader Graph](https://img.shields.io/badge/Shader%20Graph-00599C?style=for-the-badge&logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎨 **Creative & Post-Production**
@@ -29,7 +28,7 @@ As a **Certified Scrum Master and Agile Practitioner**, I excel in leading cross
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-1DA1F2?style=for-the-badge&logo=autodesk&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
 
 ### ⚙️ **Project & Pipeline**
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=agile&logoColor=white)
@@ -76,18 +75,6 @@ As a **Certified Scrum Master and Agile Practitioner**, I excel in leading cross
 🎮 **Interactive & Game Development**  
 - Unity 2D game development – profiling, optimization, and shader experimentation.  
 - Real-time lighting & pipeline integration for interactive content.  
-
----
-
-## 🚧 Featured Projects (GitHub Portfolio)
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🎮 [**Pixel Drift**](#) | A 2D top-down Unity racing prototype focusing on performance profiling and motion blur effects. | Unity 2D, C#, Shader Graph |
-| 🌈 [**Shader Sandbox**](#) | Real-time shader experiments exploring lighting, color grading, and VFX transitions. | Unity, HLSL, URP |
-| 🧩 [**Pipeline Automator**](#) | Custom toolset automating compositing and render pipeline processes. | Python, Nuke, Shotgun |
-| 🎥 [**Cinematic Reel Builder**](#) | Automated system for assembling final reels and project deliveries. | After Effects, Premiere, Scripting |
-| 🕹️ [**2D Platformer Demo**](#) | Lightweight platformer prototype designed for frame-rate stability and asset optimization. | Unity, C# |
 
 ---
 
