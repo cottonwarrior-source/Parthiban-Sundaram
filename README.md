@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parthiban Sundaram  
+# Parthiban Sundaram  
 
 🎮 **Compositing Supervisor | Technical Artist | Unity 2D Game Developer | Agile Practitioner**  
 📍 Bangalore, India  
@@ -29,50 +29,6 @@ A fast-paced top-down racing game built in Unity 2D, focusing on real-time perfo
 
 🖼️ *Preview:*  
 ![Pixel Drift](https://via.placeholder.com/800x400?text=Pixel+Drift+Gameplay+Preview)  
-
----
-
-### 🌈 [Shader Sandbox](#)
-**Type:** Real-Time Shader Experimentation  
-**Description:**  
-A collection of shader studies and lighting setups designed to replicate film-style compositing within Unity’s real-time renderer.  
-**Tech Stack:** Unity · HLSL · URP · Blender  
-
-🖼️ *Preview:*  
-![Shader Sandbox](https://share.google/images/NoclzOPj4nDL3K9Y6)
-
----
-
-### 🧩 [Pipeline Automator](#)
-**Type:** Production Tooling  
-**Description:**  
-A custom automation toolkit for managing compositing and render passes between Nuke and ShotGrid. Streamlines delivery while maintaining naming and structure standards.  
-**Tech Stack:** Python · Nuke · ShotGrid API  
-
-🖼️ *Preview:*  
-![Pipeline Automator](https://via.placeholder.com/800x400?text=Pipeline+Automator+Preview)  
-
----
-
-### 🎥 [Cinematic Reel Builder](#)
-**Type:** Post-Production Utility  
-**Description:**  
-A toolset that automates reel assembly and transitions, enhancing consistency in animation demo reels and deliveries.  
-**Tech Stack:** After Effects · Adobe Scripting · Premiere  
-
-🖼️ *Preview:*  
-![Cinematic Reel Builder](https://via.placeholder.com/800x400?text=Cinematic+Reel+Builder+Preview)  
-
----
-
-### 🕹️ [2D Platformer Demo](#)
-**Type:** Interactive Prototype  
-**Description:**  
-A Unity 2D platformer demonstrating optimized physics, parallax backgrounds, and color grading through real-time lighting and post-process effects.  
-**Tech Stack:** Unity 2D · C# · Photoshop · Tilemap System  
-
-🖼️ *Preview:*  
-![2D Platformer Demo](https://via.placeholder.com/800x400?text=2D+Platformer+Demo+Preview)  
 
 ---
 
@@ -131,7 +87,7 @@ A Unity 2D platformer demonstrating optimized physics, parallax backgrounds, and
 
 ## 🎬 Notable Projects  
 🎥 **Feature Films & TV Shows**  
-- *Orion and the Dark* – DreamWorks Animation  
+- *Orion and the Dark* – DreamWorks Animation
 - *The Croods Spinoff Series*, *Kung Fu Panda: The Legend of Awesomeness*, *Spirit Riding Free*  
 - *Teenage Mutant Ninja Turtles*, *All Hail King Julien*, *Gabby’s Dollhouse*  
 - *LEGO Series*, *Marvel Superheroes (3D Stereography)*, *Barbie Movies*  
